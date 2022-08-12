@@ -9,6 +9,8 @@ import { RedesSocialesComponent } from './components/redes-sociales/redes-social
 import { BannerComponent } from './components/banner/banner.component';
 import { NgbModule } from '@ng-bootstrap/ng-bootstrap';
 import { AcercaDeComponent } from './components/acerca-de/acerca-de.component';
+import { ExperienciaComponent } from './components/experiencia/experiencia.component';
+import { EducacionComponent } from './components/educacion/educacion.component';
 
 @NgModule({
   declarations: [
@@ -17,7 +19,9 @@ import { AcercaDeComponent } from './components/acerca-de/acerca-de.component';
     LogoArgentinaProgramaComponent,
     RedesSocialesComponent,
     BannerComponent,
-    AcercaDeComponent
+    AcercaDeComponent,
+    ExperienciaComponent,
+    EducacionComponent
   ],
   imports: [
     BrowserModule,

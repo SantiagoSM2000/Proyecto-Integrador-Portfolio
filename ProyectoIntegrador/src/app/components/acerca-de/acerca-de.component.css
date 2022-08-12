@@ -5,6 +5,7 @@
 div{
     background-color: rgb(128, 25, 46);
     text-align: center;
+    color: white;
 }
 
 #nombre{
@@ -17,7 +18,7 @@ div{
         left: 5%;
         width: 80%;
         border-radius: 100%;
-        box-shadow: 4px 4px 20px black;
+        box-shadow: 4px 4px 10px black;
     }
 }
 
