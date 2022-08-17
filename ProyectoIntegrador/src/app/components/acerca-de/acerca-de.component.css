@@ -3,7 +3,7 @@
 }
 
 div{
-    background-color: rgb(128, 25, 46);
+    background-color: #081d3c;
     text-align: center;
     color: white;
 }
@@ -15,6 +15,7 @@ div{
 
 @media(min-width: 576px ){
     #foto-perfil{
+        position: relative;
         left: 5%;
         width: 80%;
         border-radius: 100%;
