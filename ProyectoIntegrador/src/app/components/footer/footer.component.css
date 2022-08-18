@@ -1,0 +1,7 @@
+.row{
+    background-color: #081d3c;
+    display: flex;
+    color: white;
+    font-weight: bold;
+    box-shadow: 3px 3px 4px;
+}
